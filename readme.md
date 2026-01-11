@@ -1,0 +1,1 @@
+Olá! Estou aprendendo a utilizar o Git e o GitHub, e essa pasta é mais um passo deste aprendizado!
